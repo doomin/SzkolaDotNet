@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\bin\Debug\netcoreapp3.1\SzkolaDotNet.exe
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\bin\Debug\netcoreapp3.1\SzkolaDotNet.deps.json
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\bin\Debug\netcoreapp3.1\SzkolaDotNet.runtimeconfig.json
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\bin\Debug\netcoreapp3.1\SzkolaDotNet.runtimeconfig.dev.json
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\bin\Debug\netcoreapp3.1\SzkolaDotNet.dll
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\bin\Debug\netcoreapp3.1\SzkolaDotNet.pdb
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\obj\Debug\netcoreapp3.1\SzkolaDotNet.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\obj\Debug\netcoreapp3.1\SzkolaDotNet.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\obj\Debug\netcoreapp3.1\SzkolaDotNet.AssemblyInfo.cs
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\obj\Debug\netcoreapp3.1\SzkolaDotNet.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\obj\Debug\netcoreapp3.1\SzkolaDotNet.dll
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\obj\Debug\netcoreapp3.1\SzkolaDotNet.pdb
+C:\Users\domin\source\repos\SzkolaDotNet\SzkolaDotNet\obj\Debug\netcoreapp3.1\SzkolaDotNet.genruntimeconfig.cache
