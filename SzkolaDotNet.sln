@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzkolaDotNet", "SzkolaDotNe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTestCollection", "NunitTestCollection\NunitTestCollection.csproj", "{664A07DF-65FC-45E3-AF3A-84C4A7F15E27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BladesInTheDarkAdventures", "BladesInTheDarkAdventures\BladesInTheDarkAdventures.csproj", "{4AE64368-5D31-4E3F-8D7E-0B6648FADCEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{664A07DF-65FC-45E3-AF3A-84C4A7F15E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{664A07DF-65FC-45E3-AF3A-84C4A7F15E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{664A07DF-65FC-45E3-AF3A-84C4A7F15E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE64368-5D31-4E3F-8D7E-0B6648FADCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE64368-5D31-4E3F-8D7E-0B6648FADCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE64368-5D31-4E3F-8D7E-0B6648FADCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE64368-5D31-4E3F-8D7E-0B6648FADCEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
